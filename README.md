@@ -10,3 +10,5 @@ no download, no setup — the page runs in the app's own server.
 Everything lives in `index.html` — HTML, CSS and JavaScript in one file,
 which is the point: edit it, save, and the preview reloads with your
 change (Phase 21.1's live reload).
+
+# nothing
